@@ -6,11 +6,20 @@ About this series and what to expect.
 
 ## What you'll learn about in this series
 
+- Why you  should learn Rust
 - The Rust community
 - How to setup your development environment for Rust
 - How to create and run Rust programs
 - How to use Cargo
-- 
+- The different data types and how to use them
+- Functions
+- Control flow
+- Error handling
+- Borrowing
+- Ownership
+- Strings
+- Collections
+- Traits
 
 ## Next steps
 
@@ -20,7 +29,7 @@ If you want to follow along with the series, you can try out the programs in thi
 
 To continue your learning, you can refer to the following resources:
 
-- 
+- [Rust Learning Path](https://docs.microsoft.com/learn/paths/rust-first-steps/?WT.mc_id=beginrust-c9-niner)
 
 ## Contributing
 
