@@ -29,7 +29,9 @@ If you want to follow along with the series, you can try out the programs in thi
 
 To continue your learning, you can refer to the following resources:
 
-- [Rust Learning Path](https://docs.microsoft.com/learn/paths/rust-first-steps/?WT.mc_id=beginrust-c9-niner)
+- [Rust suggested learning resources](https://www.rust-lang.org/learn)
+- [Microsoft Learn: Rust Learning Path](https://docs.microsoft.com/learn/paths/rust-first-steps/?WT.mc_id=academic-29077-cxa)
+- [Exercism: Rust Exercises](https://exercism.io/tracks/rust)
 
 ## Contributing
 
